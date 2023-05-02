@@ -1,1 +1,2 @@
-This is new command
+This is new command\
+Another Command Updater
